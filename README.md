@@ -21,7 +21,6 @@ numpy
 
 # Data
 
-some data
 
 Download the data from the following link
 
