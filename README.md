@@ -1,10 +1,10 @@
 # DeepCDA
 
-#################################################################################################################
-The source code for                                                                                             #
-                                                                                                                #
-DeepCDA: Deep Cross-Domain Compound-Protein Affinity Prediction through LSTM and Convolutional Neural Network   #
-#################################################################################################################
+###########################################################################################
+The source code for                                                                                             
+                                                                                                                
+DeepCDA: Deep Cross-Domain Compound-Protein Affinity Prediction through LSTM and Convolutional Neural Network   
+############################################################################################
 
 # Requirements
 
